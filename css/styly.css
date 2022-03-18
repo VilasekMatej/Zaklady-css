@@ -98,6 +98,7 @@ b{
 }
 mark{
   background-color: rgb(102,153,0);
+  color: white;
 }
 abbr{
   text-decoration: underline dotted red;
